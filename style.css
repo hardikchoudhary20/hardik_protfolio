@@ -265,3 +265,6 @@ hr {
     justify-content: space-between;
   }
 }
+.tech-logo:hover{
+    transform: scale(1.1);
+}
