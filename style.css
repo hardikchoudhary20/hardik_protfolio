@@ -113,7 +113,6 @@ hr {
 
 .navigation .link-active {
     font-weight: bold;
-    color: var(--primary-color);
     border-radius: 0.5rem;
     background-color: red;
 }
